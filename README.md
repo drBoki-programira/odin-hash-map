@@ -1,2 +1,2 @@
-# odin-recursion
-Practicing recursive functions
+# The Odin Project - HashMap
+Hash map implementation in javascript.
