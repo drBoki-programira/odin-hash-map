@@ -1,0 +1,27 @@
+{
+  "name": "odin-recursion",
+  "version": "1.0.0",
+  "description": "Practicing recursive functions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drBoki-programira/odin-recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drBoki-programira/odin-recursion/issues"
+  },
+  "homepage": "https://github.com/drBoki-programira/odin-recursion#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.3",
+    "jest": "^30.3.0"
+  }
+}
